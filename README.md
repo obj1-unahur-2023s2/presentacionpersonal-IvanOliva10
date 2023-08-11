@@ -27,12 +27,12 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Me llamo Ivan Oliva
 
-Me gusta ...
+Me gusta el futbol , los videojuegos y la programacion 
 
-Me dedico a / Trabajo de ...
+Me dedico a / Trabajo de Estudiante de la UNAHUR
 
-Les dejo una imagen mía 
+Les dejo una imagen mía  
 
 ![subir archivo de imagen](imagen.jpg)
